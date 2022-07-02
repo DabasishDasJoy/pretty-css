@@ -1,0 +1,22 @@
+.blog{
+    background-color: rgba(71, 94, 162, 0.605);
+    border: 8px solid burlywood;
+    border-radius: 5px;
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+}
+.blog p{
+    color: purple;
+    text-align: justify;
+}
+.heading{
+    color: blue;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+.author-name{
+    color: blueviolet;
+}

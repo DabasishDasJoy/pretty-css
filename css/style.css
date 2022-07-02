@@ -1,0 +1,40 @@
+#site-title{
+    text-align: center;
+    color: blue;
+    font-size: 70px;
+}
+hr{
+    height: 2px;
+    background-color: blue;
+    border: none;
+}
+
+
+.author-name{
+    color: rgb(188, 42, 42);
+    font-size: 30px;
+}
+.blog{
+    width: 70%;
+    border: 2px solid grey;
+    border-radius: 2px;
+    border-style: dotted;
+    padding: 20px;
+}
+.author-picture{
+    width: 30%;
+}
+
+.blog p{
+    color: green;
+    margin: 10px;
+    text-align: justify;
+}
+
+.blog-div{
+    margin: 20px;
+}
+
+.investigation{
+    color: red;
+}
